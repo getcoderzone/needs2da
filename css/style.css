@@ -283,7 +283,6 @@ footer p{
   font-size: 20px;
   padding: 10px;
 }
-<<<<<<< HEAD
 
 /**Slider CSS**/
 #slider {
@@ -350,8 +349,6 @@ a.control_next {
   font-size: 18px;
 }
 
-=======
->>>>>>> 6ff8fb6d7edfe10419cb9223bf715ed79499d2e6
 @media (min-width: 280px) and (max-width: 767px) {
   footer p{
     text-align: center;
