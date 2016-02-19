@@ -18,6 +18,7 @@ $(document).ready(function() {
 			return false;
 		});
 	});
+<<<<<<< HEAD
 });
 
  
@@ -68,3 +69,6 @@ jQuery(document).ready(function ($) {
  
 
 
+=======
+});
+>>>>>>> 6ff8fb6d7edfe10419cb9223bf715ed79499d2e6
